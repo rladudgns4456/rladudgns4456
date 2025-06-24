@@ -2,6 +2,8 @@
 # 👋 안녕하세요! 제 이름은 김영훈입니다!
 Frontend 개발자를 꿈꾸는 주니어입니다. 👨‍💻
 
+[방문자 수] ![](https://komarev.com/ghpvc/?username=rladudgns4456&label=Visitors&color=blue)
+
 ## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -22,7 +24,3 @@ Frontend 개발자를 꿈꾸는 주니어입니다. 👨‍💻
 
 ## 💬 Contact
   - ✉️ rladudgns4456@naver.com
-
-
-
-![](https://komarev.com/ghpvc/?username=rladudgns4456&label=Visitors&color=blue)
