@@ -12,8 +12,6 @@ Frontend 개발자를 꿈꾸는 주니어입니다. 👨‍💻
 ## 🧠 js-coding-test
   [![Repo](https://img.shields.io/badge/js--coding--test-%F0%9F%93%81-blue)](https://github.com/rladudgns4456/js-coding-test)
 
-  프론트엔드 취업을 대비하며 꾸준히 알고리즘 문제를 JS로 풀이하고 정리한 저장소입니다.
-
 ## My Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=rladudgns)](https://velog.io/@rladudgns4456/posts) <br>
 
