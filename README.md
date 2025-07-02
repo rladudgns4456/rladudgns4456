@@ -16,6 +16,7 @@ Frontend 개발자를 꿈꾸는 주니어입니다. 👨‍💻
 
 ## MyVelog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=rladudgns)](https://velog.io/@rladudgns4456/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rladudgns&tag=프론트엔드)](https://velog.io/@rladudgns4456/posts)
 
 ## 📌 Projects
   -
