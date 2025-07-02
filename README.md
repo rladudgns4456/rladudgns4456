@@ -14,9 +14,9 @@ Frontend 개발자를 꿈꾸는 주니어입니다. 👨‍💻
 
   프론트엔드 취업을 대비하며 꾸준히 알고리즘 문제를 JS로 풀이하고 정리한 저장소입니다.
 
-## MyVelog
+## My Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=rladudgns)](https://velog.io/@rladudgns4456/posts) <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rladudgns&tag=frontend)](https://velog.io/@rladudgns4456/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rladudgns&tag=frontend)](https://velog.io/@rladudgns4456/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EA%B3%B5%EB%B6%80-%EC%99%9C-%EC%8B%9C%EC%9E%91%ED%96%88%EC%9D%84%EA%B9%8C)
 
 ## 📌 Projects
   -
