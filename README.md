@@ -14,6 +14,9 @@ Frontend 개발자를 꿈꾸는 주니어입니다. 👨‍💻
 
   프론트엔드 취업을 대비하며 꾸준히 알고리즘 문제를 JS로 풀이하고 정리한 저장소입니다.
 
+## MyVelog
+![Velog](https://velog.io/@rladudgns4456/posts)
+
 ## 📌 Projects
   -
   -
